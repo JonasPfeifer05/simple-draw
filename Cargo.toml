@@ -1,6 +1,7 @@
 [package]
 name = "simple-draw"
 version = "0.0.0"
+authors = ["Jonas Pfeifer"]
 edition = "2021"
 license = "GPL-3"
 description = "A library to draw simple shapes"
